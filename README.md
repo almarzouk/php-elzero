@@ -15,7 +15,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 003 - Install PHP And Prepare Environment To Work
 - [ ] Uploaded 004 - PHP Tags & Instruction Separation
 - [ ] Uploaded 005 - Comments And Best Practice
-     ### Data Types
+
+- [ ] Assignement
+
+### Data Types
 - [ ] Uploaded 006 - Introduction To Data Types
 - [ ] Uploaded 007 - Type Juggling And Automatic Type Conversion
 - [ ] Uploaded 008 - Type Casting
@@ -23,7 +26,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 010 - String And Escaping
 - [ ] Uploaded 011 - Heredoc And Nowdoc
 - [ ] Uploaded 012 - Array With Comple  Tests
-     ### Variables & Constants
+
+- [ ] Assignement
+
+### Variables & Constants
 - [ ] Uploaded 013 - Introduction To Variables And Naming Rules
 - [ ] Uploaded 014 - Testing Variables In Real World
 - [ ] Uploaded 015 - Variable Variable
@@ -31,7 +37,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 017 - Pre-Defined Variables And Test
 - [ ] Uploaded 018 - Introduction To Constants
 - [ ] Uploaded 019 - Predefined & Magic Constants & Reserved Keywords
-     ### Operators
+
+- [ ] Assignement
+
+### Operators
 - [ ] Uploaded 020 - Arithmetic Operators
 - [ ] Uploaded 021 - Assignment Operators
 - [ ] Uploaded 022 - Comparison Operators Part 1
@@ -42,7 +51,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 027 - Array Operators
 - [ ] Uploaded 028 - Error Control Operators
 - [ ] Uploaded 029 - Operator Precedence
-     ### Control Structures
+
+- [ ] Assignement
+
+### Control Structures
 - [ ] Uploaded 030 - If, Elseif, Else Basics
 - [ ] Uploaded 031 - If, Elseif, Else Real Life E amples
 - [ ] Uploaded 032 - If, Elseif, Else Advanced Practice
@@ -56,7 +68,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 040 - Loop - Foreach
 - [ ] Uploaded 041 - Break, Continue
 - [ ] Uploaded 042 - Require And Include
-     ### Functions
+
+- [ ] Assignement
+
+### Functions
 - [ ] Uploaded 043 - Function Introduction And DRY Concept
 - [ ] Uploaded 044 - Function Advanced E ample With Parameters And Arguments
 - [ ] Uploaded 045 - Function Return And Echo
@@ -67,7 +82,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 050 - Passing Arguments By Reference And Return Type Declaration
 - [ ] Uploaded 051 - Anonymous Function
 - [ ] Uploaded 052 - Arrow Function
-    ### Built-In Functions => String And String Functions [Total 30]
+
+- [ ] Assignement
+
+### Built-In Functions => String And String Functions [Total 30]
 - [ ] Uploaded 053 - String Access And Update Elements
 - [ ] Uploaded 054 - String Functions Part 01 [ 6 Functions ]
 - [ ] Uploaded 055 - String Functions Part 02 [ 7 Functions ]
@@ -78,7 +96,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 060 - String Functions substr_replace
 - [ ] Uploaded 061 - String Functions Part 08 [ 4 Functions ]
 - [ ] Uploaded 062 - String Functions Part 09 [ 3 Functions ]
-     ### Built-In Functions => Array And Array Functions
+
+- [ ] Assignement
+
+### Built-In Functions => Array And Array Functions
 - [ ] Uploaded 063 - Array Functions Part 01 [ 4 Functions ]
 - [ ] Uploaded 064 - Array Functions Part 02 [ 5 Functions ]
 - [ ] Uploaded 065 - Array Functions Part 03 [ 5 Functions ]
@@ -89,7 +110,10 @@ Introduction, Syntax And Fundamentals
 - [ ] Uploaded 070 - Array Functions Part 08 [ 7 Functions ]
 - [ ] Uploaded 071 - Array_Map, Array_Filter
 - [ ] Uploaded 072 - Array_Reduce
-     ### Built-In Functions => Math Functions + Filter Functions
+
+- [ ] Assignement
+
+### Built-In Functions => Math Functions + Filter Functions
 - [ ] 073 - abs, mt_rand, mt_getrandmax, intdiv, fmod
 - [ ] 074 - ceil, floor
 - [ ] 075 - round
@@ -99,3 +123,6 @@ Introduction, Syntax And Fundamentals
 - [ ] 079 - Filter_Var Validate Filters Part 2
 - [ ] 080 - Filter_Var Sanitize Filters
 - [ ] 081 - Filter_Input + Trainings
+
+- [ ] Assignement
+
