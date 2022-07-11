@@ -1,0 +1,5 @@
+PHP Built-In Functions
+PHP String Built-In Functions
+PHP Implement Built In Functions
+PHP String Functions Use Cases
+PHP String Replace Examples

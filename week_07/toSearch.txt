@@ -1,0 +1,6 @@
+PHP Function
+PHP Arrow Function
+PHP Anonymous Function
+PHP Function Inside Function
+PHP Return Function
+PHP Return Anonymous Function

@@ -1,0 +1,3 @@
+PHP Loosely Typed
+PHP Predefined Variables
+PHP Predefined Constants
