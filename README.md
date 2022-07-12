@@ -10,47 +10,47 @@
 
 Introduction, Syntax And Fundamentals
 
-- [ ] Uploaded 001 - Introduction And Important Information ?
-- [ ] Uploaded 002 - What Is New And How To Study The Course ?
-- [ ] Uploaded 003 - Install PHP And Prepare Environment To Work
-- [ ] Uploaded 004 - PHP Tags & Instruction Separation
-- [ ] Uploaded 005 - Comments And Best Practice
+- [x]  001 - Introduction And Important Information ?
+- [x]  002 - What Is New And How To Study The Course ?
+- [x]  003 - Install PHP And Prepare Environment To Work
+- [x]  004 - PHP Tags & Instruction Separation
+- [x]  005 - Comments And Best Practice
 
 - [ ] Assignement
 
 ### Data Types
-- [ ] Uploaded 006 - Introduction To Data Types
-- [ ] Uploaded 007 - Type Juggling And Automatic Type Conversion
-- [ ] Uploaded 008 - Type Casting
-- [ ] Uploaded 009 - Boolean And Converting To Booleans
-- [ ] Uploaded 010 - String And Escaping
-- [ ] Uploaded 011 - Heredoc And Nowdoc
-- [ ] Uploaded 012 - Array With Comple  Tests
+- [ ]  006 - Introduction To Data Types
+- [ ]  007 - Type Juggling And Automatic Type Conversion
+- [ ]  008 - Type Casting
+- [ ]  009 - Boolean And Converting To Booleans
+- [ ]  010 - String And Escaping
+- [ ]  011 - Heredoc And Nowdoc
+- [ ]  012 - Array With Comple  Tests
 
 - [ ] Assignement
 
 ### Variables & Constants
-- [ ] Uploaded 013 - Introduction To Variables And Naming Rules
-- [ ] Uploaded 014 - Testing Variables In Real World
-- [ ] Uploaded 015 - Variable Variable
-- [ ] Uploaded 016 - Assign By Value And By References
-- [ ] Uploaded 017 - Pre-Defined Variables And Test
-- [ ] Uploaded 018 - Introduction To Constants
-- [ ] Uploaded 019 - Predefined & Magic Constants & Reserved Keywords
+- [ ]  013 - Introduction To Variables And Naming Rules
+- [ ]  014 - Testing Variables In Real World
+- [ ]  015 - Variable Variable
+- [ ]  016 - Assign By Value And By References
+- [ ]  017 - Pre-Defined Variables And Test
+- [ ]  018 - Introduction To Constants
+- [ ]  019 - Predefined & Magic Constants & Reserved Keywords
 
 - [ ] Assignement
 
 ### Operators
-- [ ] Uploaded 020 - Arithmetic Operators
-- [ ] Uploaded 021 - Assignment Operators
-- [ ] Uploaded 022 - Comparison Operators Part 1
-- [ ] Uploaded 023 - Comparison Operators Part 2
-- [ ] Uploaded 024 - Incrementing & Decrementing Operators
-- [ ] Uploaded 025 - Logical Operators
-- [ ] Uploaded 026 - String Operators
-- [ ] Uploaded 027 - Array Operators
-- [ ] Uploaded 028 - Error Control Operators
-- [ ] Uploaded 029 - Operator Precedence
+- [ ]  020 - Arithmetic Operators
+- [ ]  021 - Assignment Operators
+- [ ]  022 - Comparison Operators Part 1
+- [ ]  023 - Comparison Operators Part 2
+- [ ]  024 - Incrementing & Decrementing Operators
+- [ ]  025 - Logical Operators
+- [ ]  026 - String Operators
+- [ ]  027 - Array Operators
+- [ ]  028 - Error Control Operators
+- [ ]  029 - Operator Precedence
 
 - [ ] Assignement
 
