@@ -24,7 +24,6 @@ Multiple
 Lines
 ';
 echo '</br>';
-echo '</br>';
 echo nl2br('Hello PHP 
 Multiple 
 Lines
