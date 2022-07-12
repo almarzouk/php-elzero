@@ -1,29 +1,43 @@
 <?php
 /*
 ========================================
-# Data types
-#----------#
-# type juggling + Automatic type conversion
+=======Introduction To Data Types=======
 ========================================
+
+=========================================
+= bool  => Boolean
+= int   => Integer
+= float => Floating Point Number | double
+= string
+= array
+= gettype()
+=========================================
 */
 
-echo 1 + '2'; // 3
-echo '</br>';
-echo gettype(1 + "2"); // Integer it's just convert the output type not the input "it's importent"
-echo '</br>';
-echo true; // 1 because true = 1 and false = 0
-echo '</br>';
-echo gettype(true); // 1 - boolean 
-echo '</br>';
-echo true + true; // 2 because true = 1 so 1 + 1 = 2
-echo '</br>';
-echo gettype(true + true); // 2 - integer because we sum 1 + 1 
-echo '</br>';
-echo 1 + '10 number'; // the result is 11 but you'll encounter warning " A non-numeric value encountered "
-echo '</br>';
-echo gettype(1 + '10 number'); // Integer
-echo '</br>';
-echo 1 + 10.5; // 11.5
-echo '</br>';
-echo gettype(1 + 10.5); // double => float
-echo '</br>';
+echo gettype(true); // boolean
+echo '<br>';
+echo gettype(false); // boolean
+echo '<br>';
+echo gettype(1); // int => integer
+echo '<br>';
+echo gettype(0); // int => integer
+echo '<br>';
+echo gettype(-200); // int => integer
+echo '<br>';
+echo gettype('Hello'); // string
+echo '<br>';
+echo gettype("Hello"); // string
+echo '<br>';
+echo gettype(array('eg' => 'egypt', 'sy' => 'syria')); // string
+echo '<br>';
+echo gettype(['eg' => 'egypt', 'sy' => 'syria']); // string
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo gettype(1); // int => integer
