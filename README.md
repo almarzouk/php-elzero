@@ -27,7 +27,7 @@ Introduction, Syntax And Fundamentals
 - [x]  011 - Heredoc And Nowdoc
 - [x]  012 - Array With Comple  Tests
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Variables & Constants
 - [ ]  013 - Introduction To Variables And Naming Rules
