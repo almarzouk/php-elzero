@@ -14,7 +14,7 @@
 =========================================
 */
 
-echo gettype(true); // boolean
+echo gettype(true); // booleans
 echo '<br>';
 echo gettype(false); // boolean
 echo '<br>';
