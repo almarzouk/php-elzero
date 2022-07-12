@@ -16,18 +16,18 @@ Introduction, Syntax And Fundamentals
 - [x]  004 - PHP Tags & Instruction Separation
 - [x]  005 - Comments And Best Practice
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Data Types
-- [ ]  006 - Introduction To Data Types
-- [ ]  007 - Type Juggling And Automatic Type Conversion
-- [ ]  008 - Type Casting
-- [ ]  009 - Boolean And Converting To Booleans
-- [ ]  010 - String And Escaping
-- [ ]  011 - Heredoc And Nowdoc
-- [ ]  012 - Array With Comple  Tests
+- [x]  006 - Introduction To Data Types
+- [x]  007 - Type Juggling And Automatic Type Conversion
+- [x]  008 - Type Casting
+- [x]  009 - Boolean And Converting To Booleans
+- [x]  010 - String And Escaping
+- [x]  011 - Heredoc And Nowdoc
+- [x]  012 - Array With Comple  Tests
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Variables & Constants
 - [ ]  013 - Introduction To Variables And Naming Rules
