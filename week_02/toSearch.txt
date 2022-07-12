@@ -3,3 +3,12 @@ PHP Null
 PHP Get Data Type
 PHP Resource Data Type
 PHP Unset
+
+String ""
+Integer 1,2,3,4,5
+Float (floating point numbers - also called double) 1.2 ,1.23 ,4.5
+Boolean true false
+Array []
+Object {}
+NULL null
+Resource
