@@ -31,7 +31,7 @@ Introduction, Syntax And Fundamentals
 
 ### Variables & Constants
 - [x]  013 - Introduction To Variables And Naming Rules
-- [ ]  014 - Testing Variables In Real World
+- [x]  014 - Testing Variables In Real World
 - [ ]  015 - Variable Variable
 - [ ]  016 - Assign By Value And By References
 - [ ]  017 - Pre-Defined Variables And Test
