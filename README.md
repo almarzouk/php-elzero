@@ -30,7 +30,7 @@ Introduction, Syntax And Fundamentals
 - [x] Assignement
 
 ### Variables & Constants
-- [ ]  013 - Introduction To Variables And Naming Rules
+- [x]  013 - Introduction To Variables And Naming Rules
 - [ ]  014 - Testing Variables In Real World
 - [ ]  015 - Variable Variable
 - [ ]  016 - Assign By Value And By References
