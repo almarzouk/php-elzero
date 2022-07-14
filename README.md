@@ -32,11 +32,11 @@ Introduction, Syntax And Fundamentals
 ### Variables & Constants
 - [x]  013 - Introduction To Variables And Naming Rules
 - [x]  014 - Testing Variables In Real World
-- [ ]  015 - Variable Variable
-- [ ]  016 - Assign By Value And By References
-- [ ]  017 - Pre-Defined Variables And Test
-- [ ]  018 - Introduction To Constants
-- [ ]  019 - Predefined & Magic Constants & Reserved Keywords
+- [x]  015 - Variable Variable
+- [x]  016 - Assign By Value And By References
+- [x]  017 - Pre-Defined Variables And Test
+- [x]  018 - Introduction To Constants
+- [x]  019 - Predefined & Magic Constants & Reserved Keywords
 
 - [ ] Assignement
 
