@@ -41,13 +41,13 @@ Introduction, Syntax And Fundamentals
 - [ ] Assignement
 
 ### Operators
-- [ ]  020 - Arithmetic Operators
-- [ ]  021 - Assignment Operators
-- [ ]  022 - Comparison Operators Part 1
-- [ ]  023 - Comparison Operators Part 2
-- [ ]  024 - Incrementing & Decrementing Operators
-- [ ]  025 - Logical Operators
-- [ ]  026 - String Operators
+- [x]  020 - Arithmetic Operators
+- [x]  021 - Assignment Operators
+- [x]  022 - Comparison Operators Part 1
+- [x]  023 - Comparison Operators Part 2
+- [x]  024 - Incrementing & Decrementing Operators
+- [x]  025 - Logical Operators
+- [x]  026 - String Operators
 - [ ]  027 - Array Operators
 - [ ]  028 - Error Control Operators
 - [ ]  029 - Operator Precedence
