@@ -49,7 +49,7 @@ Introduction, Syntax And Fundamentals
 - [x]  025 - Logical Operators
 - [x]  026 - String Operators
 - [x]  027 - Array Operators
-- [ ]  028 - Error Control Operators
+- [x]  028 - Error Control Operators
 - [ ]  029 - Operator Precedence
 
 - [ ] Assignement
