@@ -50,7 +50,7 @@ Introduction, Syntax And Fundamentals
 - [x]  026 - String Operators
 - [x]  027 - Array Operators
 - [x]  028 - Error Control Operators
-- [ ]  029 - Operator Precedence
+- [x]  029 - Operator Precedence
 
 - [ ] Assignement
 
