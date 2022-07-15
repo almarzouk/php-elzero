@@ -52,7 +52,7 @@ Introduction, Syntax And Fundamentals
 - [x]  028 - Error Control Operators
 - [x]  029 - Operator Precedence
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Control Structures
 - [ ]  030 - If, Elseif, Else Basics
