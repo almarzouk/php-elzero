@@ -38,7 +38,7 @@ Introduction, Syntax And Fundamentals
 - [x]  018 - Introduction To Constants
 - [x]  019 - Predefined & Magic Constants & Reserved Keywords
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Operators
 - [x]  020 - Arithmetic Operators
