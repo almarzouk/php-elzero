@@ -48,7 +48,7 @@ Introduction, Syntax And Fundamentals
 - [x]  024 - Incrementing & Decrementing Operators
 - [x]  025 - Logical Operators
 - [x]  026 - String Operators
-- [ ]  027 - Array Operators
+- [x]  027 - Array Operators
 - [ ]  028 - Error Control Operators
 - [ ]  029 - Operator Precedence
 
