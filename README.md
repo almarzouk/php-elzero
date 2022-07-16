@@ -38,7 +38,7 @@ Introduction, Syntax And Fundamentals
 - [x]  018 - Introduction To Constants
 - [x]  019 - Predefined & Magic Constants & Reserved Keywords
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Operators
 - [x]  020 - Arithmetic Operators
@@ -48,11 +48,11 @@ Introduction, Syntax And Fundamentals
 - [x]  024 - Incrementing & Decrementing Operators
 - [x]  025 - Logical Operators
 - [x]  026 - String Operators
-- [ ]  027 - Array Operators
-- [ ]  028 - Error Control Operators
-- [ ]  029 - Operator Precedence
+- [x]  027 - Array Operators
+- [x]  028 - Error Control Operators
+- [x]  029 - Operator Precedence
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Control Structures
 - [ ]  030 - If, Elseif, Else Basics
