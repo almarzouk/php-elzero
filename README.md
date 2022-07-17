@@ -67,7 +67,7 @@ Introduction, Syntax And Fundamentals
 - [x]  039 - Loop - For
 - [x]  040 - Loop - Foreach
 - [x]  041 - Break, Continue
-- [ ]  042 - Require And Include
+- [x]  042 - Require And Include
 
 - [ ] Assignement
 
