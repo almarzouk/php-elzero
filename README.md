@@ -60,7 +60,7 @@ Introduction, Syntax And Fundamentals
 - [x]  032 - If, Elseif, Else Advanced Practice
 - [x]  033 - If, Elseif, Else Alternative Synta 
 - [x]  034 - Nested If Advanced Practice
-- [ ]  035 - Ternary Conditional Operator
+- [x]  035 - Ternary Conditional Operator
 - [ ]  036 - Switch
 - [ ]  037 - While And Concept Of Loop
 - [ ]  038 - Do While Loop
