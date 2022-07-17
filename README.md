@@ -63,7 +63,7 @@ Introduction, Syntax And Fundamentals
 - [x]  035 - Ternary Conditional Operator
 - [x]  036 - Switch
 - [x]  037 - While And Concept Of Loop
-- [ ]  038 - Do While Loop
+- [x]  038 - Do While Loop
 - [ ]  039 - Loop - For
 - [ ]  040 - Loop - Foreach
 - [ ]  041 - Break, Continue
