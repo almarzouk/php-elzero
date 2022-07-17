@@ -66,7 +66,7 @@ Introduction, Syntax And Fundamentals
 - [x]  038 - Do While Loop
 - [x]  039 - Loop - For
 - [x]  040 - Loop - Foreach
-- [ ]  041 - Break, Continue
+- [x]  041 - Break, Continue
 - [ ]  042 - Require And Include
 
 - [ ] Assignement
