@@ -57,7 +57,7 @@ Introduction, Syntax And Fundamentals
 ### Control Structures
 - [x]  030 - If, Elseif, Else Basics
 - [x]  031 - If, Elseif, Else Real Life E amples
-- [ ]  032 - If, Elseif, Else Advanced Practice
+- [x]  032 - If, Elseif, Else Advanced Practice
 - [ ]  033 - If, Elseif, Else Alternative Synta 
 - [ ]  034 - Nested If Advanced Practice
 - [ ]  035 - Ternary Conditional Operator
