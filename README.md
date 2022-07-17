@@ -62,7 +62,7 @@ Introduction, Syntax And Fundamentals
 - [x]  034 - Nested If Advanced Practice
 - [x]  035 - Ternary Conditional Operator
 - [x]  036 - Switch
-- [ ]  037 - While And Concept Of Loop
+- [x]  037 - While And Concept Of Loop
 - [ ]  038 - Do While Loop
 - [ ]  039 - Loop - For
 - [ ]  040 - Loop - Foreach
