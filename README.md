@@ -69,7 +69,7 @@ Introduction, Syntax And Fundamentals
 - [x]  041 - Break, Continue
 - [x]  042 - Require And Include
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Functions
 - [ ]  043 - Function Introduction And DRY Concept
