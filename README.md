@@ -59,7 +59,7 @@ Introduction, Syntax And Fundamentals
 - [x]  031 - If, Elseif, Else Real Life E amples
 - [x]  032 - If, Elseif, Else Advanced Practice
 - [x]  033 - If, Elseif, Else Alternative Synta 
-- [ ]  034 - Nested If Advanced Practice
+- [x]  034 - Nested If Advanced Practice
 - [ ]  035 - Ternary Conditional Operator
 - [ ]  036 - Switch
 - [ ]  037 - While And Concept Of Loop
