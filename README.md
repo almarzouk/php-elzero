@@ -55,7 +55,7 @@ Introduction, Syntax And Fundamentals
 - [x] Assignement
 
 ### Control Structures
-- [ ]  030 - If, Elseif, Else Basics
+- [x]  030 - If, Elseif, Else Basics
 - [ ]  031 - If, Elseif, Else Real Life E amples
 - [ ]  032 - If, Elseif, Else Advanced Practice
 - [ ]  033 - If, Elseif, Else Alternative Synta 
