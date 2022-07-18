@@ -73,7 +73,7 @@ Introduction, Syntax And Fundamentals
 
 ### Functions
 - [x]  043 - Function Introduction And DRY Concept
-- [ ]  044 - Function Advanced E ample With Parameters And Arguments
+- [x]  044 - Function Advanced E ample With Parameters And Arguments
 - [ ]  045 - Function Return And Echo
 - [ ]  046 - Function Default Parameter Value
 - [ ]  047 - Function Variable Arguments Lists
