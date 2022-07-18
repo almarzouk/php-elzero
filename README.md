@@ -2,7 +2,7 @@
 
 [Link of the course on Youtube](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
-![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/17)
+![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 
 ![php-admin-panel-templatewes](https://user-images.githubusercontent.com/84162824/177995458-1b630374-adc0-44b7-b150-170472b43c90.jpeg)
 
@@ -32,44 +32,44 @@ Introduction, Syntax And Fundamentals
 ### Variables & Constants
 - [x]  013 - Introduction To Variables And Naming Rules
 - [x]  014 - Testing Variables In Real World
-- [ ]  015 - Variable Variable
-- [ ]  016 - Assign By Value And By References
-- [ ]  017 - Pre-Defined Variables And Test
-- [ ]  018 - Introduction To Constants
-- [ ]  019 - Predefined & Magic Constants & Reserved Keywords
+- [x]  015 - Variable Variable
+- [x]  016 - Assign By Value And By References
+- [x]  017 - Pre-Defined Variables And Test
+- [x]  018 - Introduction To Constants
+- [x]  019 - Predefined & Magic Constants & Reserved Keywords
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Operators
-- [ ]  020 - Arithmetic Operators
-- [ ]  021 - Assignment Operators
-- [ ]  022 - Comparison Operators Part 1
-- [ ]  023 - Comparison Operators Part 2
-- [ ]  024 - Incrementing & Decrementing Operators
-- [ ]  025 - Logical Operators
-- [ ]  026 - String Operators
-- [ ]  027 - Array Operators
-- [ ]  028 - Error Control Operators
-- [ ]  029 - Operator Precedence
+- [x]  020 - Arithmetic Operators
+- [x]  021 - Assignment Operators
+- [x]  022 - Comparison Operators Part 1
+- [x]  023 - Comparison Operators Part 2
+- [x]  024 - Incrementing & Decrementing Operators
+- [x]  025 - Logical Operators
+- [x]  026 - String Operators
+- [x]  027 - Array Operators
+- [x]  028 - Error Control Operators
+- [x]  029 - Operator Precedence
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Control Structures
-- [ ]  030 - If, Elseif, Else Basics
-- [ ]  031 - If, Elseif, Else Real Life E amples
-- [ ]  032 - If, Elseif, Else Advanced Practice
-- [ ]  033 - If, Elseif, Else Alternative Synta 
-- [ ]  034 - Nested If Advanced Practice
-- [ ]  035 - Ternary Conditional Operator
-- [ ]  036 - Switch
-- [ ]  037 - While And Concept Of Loop
-- [ ]  038 - Do While Loop
-- [ ]  039 - Loop - For
-- [ ]  040 - Loop - Foreach
-- [ ]  041 - Break, Continue
-- [ ]  042 - Require And Include
+- [x]  030 - If, Elseif, Else Basics
+- [x]  031 - If, Elseif, Else Real Life E amples
+- [x]  032 - If, Elseif, Else Advanced Practice
+- [x]  033 - If, Elseif, Else Alternative Synta 
+- [x]  034 - Nested If Advanced Practice
+- [x]  035 - Ternary Conditional Operator
+- [x]  036 - Switch
+- [x]  037 - While And Concept Of Loop
+- [x]  038 - Do While Loop
+- [x]  039 - Loop - For
+- [x]  040 - Loop - Foreach
+- [x]  041 - Break, Continue
+- [x]  042 - Require And Include
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Functions
 - [ ]  043 - Function Introduction And DRY Concept

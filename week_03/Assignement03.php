@@ -1,6 +1,6 @@
 <!-- Assignement 1 -->
 <?php
-$elzero = "jumaa Courses";
+// $elzero = "jumaa Courses";
 ?>
 <!-- 
 
@@ -53,4 +53,17 @@ $b = &$a;
 $a = 100;
 
 echo $b; // 100
+?>
+<!-- Assignement 4 -->
+<?php
+// "C:/xampp/htdocs"
+// "localhost"
+// "C:\WINDOWS"
+// "C:/xampp/apache/bin/openssl.cnf"
+echo '<br>';
+echo $_SERVER["DOCUMENT_ROOT"];
+echo '<br>';
+echo $_SERVER['SERVER_NAME'];
+echo '<br>';
+echo __DIR__;
 ?>
