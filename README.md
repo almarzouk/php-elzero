@@ -77,7 +77,7 @@ Introduction, Syntax And Fundamentals
 - [x]  045 - Function Return And Echo
 - [x]  046 - Function Default Parameter Value
 - [x]  047 - Function Variable Arguments Lists
-- [ ]  048 - Function Training And Unpacking Arguments
+- [x]  048 - Function Training And Unpacking Arguments
 - [ ]  049 - Variable Function
 - [ ]  050 - Passing Arguments By Reference And Return Type Declaration
 - [ ]  051 - Anonymous Function
