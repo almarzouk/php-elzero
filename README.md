@@ -80,7 +80,7 @@ Introduction, Syntax And Fundamentals
 - [x]  048 - Function Training And Unpacking Arguments
 - [x]  049 - Variable Function
 - [x]  050 - Passing Arguments By Reference And Return Type Declaration
-- [ ]  051 - Anonymous Function
+- [x]  051 - Anonymous Function
 - [ ]  052 - Arrow Function
 
 - [ ] Assignement
