@@ -81,7 +81,7 @@ Introduction, Syntax And Fundamentals
 - [x]  049 - Variable Function
 - [x]  050 - Passing Arguments By Reference And Return Type Declaration
 - [x]  051 - Anonymous Function
-- [ ]  052 - Arrow Function
+- [x]  052 - Arrow Function
 
 - [ ] Assignement
 
