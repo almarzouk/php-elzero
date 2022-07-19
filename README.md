@@ -83,7 +83,7 @@ Introduction, Syntax And Fundamentals
 - [x]  051 - Anonymous Function
 - [x]  052 - Arrow Function
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Built-In Functions => String And String Functions [Total 30]
 - [ ]  053 - String Access And Update Elements
