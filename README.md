@@ -4,7 +4,7 @@
 
 ![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)
 
-![php-admin-panel-templatewes](https://user-images.githubusercontent.com/84162824/177995458-1b630374-adc0-44b7-b150-170472b43c90.jpeg)
+![php-admin-panel-templatewes](https://camo.githubusercontent.com/1c1de0c6fb8747c13524b48ec722374ae9c59a4db4cc2f8130930e610a037c42/68747470733a2f2f656c7a65726f2e6f72672f7068702d626f6f7463616d702e706e67)
 
 <h1>PHP Bootcamp Elzero</h1>
 
