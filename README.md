@@ -91,7 +91,7 @@ Introduction, Syntax And Fundamentals
 - [x]  055 - String Functions Part 02 [ 7 Functions ]
 - [x]  056 - String Functions Part 03 [ 5 Functions ]
 - [x]  057 - String Functions Part 04 [ 5 Functions ]
-- [ ]  058 - String Functions Part 05 [ 4 Functions ]
+- [x]  058 - String Functions Part 05 [ 4 Functions ]
 - [ ]  059 - String Functions str_replace, str_ireplace
 - [ ]  060 - String Functions substr_replace
 - [ ]  061 - String Functions Part 08 [ 4 Functions ]
