@@ -2,13 +2,13 @@
 
 [Link of the course on Youtube](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
-![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
 
 ![php-admin-panel-templatewes](https://user-images.githubusercontent.com/84162824/177995458-1b630374-adc0-44b7-b150-170472b43c90.jpeg)
 
 <h1>PHP Bootcamp Elzero</h1>
 
-Introduction, Syntax And Fundamentals
+###Introduction, Syntax And Fundamentals
 
 - [x]  001 - Introduction And Important Information ?
 - [x]  002 - What Is New And How To Study The Course ?
@@ -83,16 +83,16 @@ Introduction, Syntax And Fundamentals
 - [x]  051 - Anonymous Function
 - [x]  052 - Arrow Function
 
-- [ ] Assignement
+- [x] Assignement
 
 ### Built-In Functions => String And String Functions [Total 30]
-- [ ]  053 - String Access And Update Elements
-- [ ]  054 - String Functions Part 01 [ 6 Functions ]
-- [ ]  055 - String Functions Part 02 [ 7 Functions ]
-- [ ]  056 - String Functions Part 03 [ 5 Functions ]
-- [ ]  057 - String Functions Part 04 [ 5 Functions ]
-- [ ]  058 - String Functions Part 05 [ 4 Functions ]
-- [ ]  059 - String Functions str_replace, str_ireplace
+- [x]  053 - String Access And Update Elements
+- [x]  054 - String Functions Part 01 [ 6 Functions ]
+- [x]  055 - String Functions Part 02 [ 7 Functions ]
+- [x]  056 - String Functions Part 03 [ 5 Functions ]
+- [x]  057 - String Functions Part 04 [ 5 Functions ]
+- [x]  058 - String Functions Part 05 [ 4 Functions ]
+- [X]  059 - String Functions str_replace, str_ireplace
 - [ ]  060 - String Functions substr_replace
 - [ ]  061 - String Functions Part 08 [ 4 Functions ]
 - [ ]  062 - String Functions Part 09 [ 3 Functions ]
