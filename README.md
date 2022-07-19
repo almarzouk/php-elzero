@@ -86,7 +86,7 @@ Introduction, Syntax And Fundamentals
 - [x] Assignement
 
 ### Built-In Functions => String And String Functions [Total 30]
-- [ ]  053 - String Access And Update Elements
+- [x]  053 - String Access And Update Elements
 - [ ]  054 - String Functions Part 01 [ 6 Functions ]
 - [ ]  055 - String Functions Part 02 [ 7 Functions ]
 - [ ]  056 - String Functions Part 03 [ 5 Functions ]
