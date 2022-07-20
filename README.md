@@ -92,7 +92,7 @@
 - [x]  056 - String Functions Part 03 [ 5 Functions ]
 - [x]  057 - String Functions Part 04 [ 5 Functions ]
 - [x]  058 - String Functions Part 05 [ 4 Functions ]
-- [X]  059 - String Functions str_replace, str_ireplace
+- [ ]  059 - String Functions str_replace, str_ireplace
 - [ ]  060 - String Functions substr_replace
 - [ ]  061 - String Functions Part 08 [ 4 Functions ]
 - [ ]  062 - String Functions Part 09 [ 3 Functions ]
