@@ -2,13 +2,13 @@
 
 [Link of the course on Youtube](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
-![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)
 
-![php-admin-panel-templatewes](https://user-images.githubusercontent.com/84162824/177995458-1b630374-adc0-44b7-b150-170472b43c90.jpeg)
+![php-admin-panel-templatewes](https://camo.githubusercontent.com/1c1de0c6fb8747c13524b48ec722374ae9c59a4db4cc2f8130930e610a037c42/68747470733a2f2f656c7a65726f2e6f72672f7068702d626f6f7463616d702e706e67)
 
 <h1>PHP Bootcamp Elzero</h1>
 
-###Introduction, Syntax And Fundamentals
+### Introduction, Syntax And Fundamentals
 
 - [x]  001 - Introduction And Important Information ?
 - [x]  002 - What Is New And How To Study The Course ?
@@ -91,8 +91,8 @@
 - [x]  055 - String Functions Part 02 [ 7 Functions ]
 - [x]  056 - String Functions Part 03 [ 5 Functions ]
 - [x]  057 - String Functions Part 04 [ 5 Functions ]
-- [x]  058 - String Functions Part 05 [ 4 Functions ]
-- [X]  059 - String Functions str_replace, str_ireplace
+- [ ]  058 - String Functions Part 05 [ 4 Functions ]
+- [ ]  059 - String Functions str_replace, str_ireplace
 - [ ]  060 - String Functions substr_replace
 - [ ]  061 - String Functions Part 08 [ 4 Functions ]
 - [ ]  062 - String Functions Part 09 [ 3 Functions ]
