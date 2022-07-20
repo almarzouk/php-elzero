@@ -10,7 +10,7 @@
 
 ### Introduction, Syntax And Fundamentals
 
-- [ ]  001 - Introduction And Important Information ?
+- [x]  001 - Introduction And Important Information ?
 - [x]  002 - What Is New And How To Study The Course ?
 - [x]  003 - Install PHP And Prepare Environment To Work
 - [x]  004 - PHP Tags & Instruction Separation
